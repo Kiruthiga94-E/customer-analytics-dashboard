@@ -1,0 +1,16 @@
+support,itemsets
+0.7149272064597975,frozenset({'Books'})
+0.7179476853063772,frozenset({'Clothing'})
+0.7191357403193653,frozenset({'Electronics'})
+0.719921064819476,frozenset({'Home'})
+0.5102192867642616,"frozenset({'Clothing', 'Books'})"
+0.5089506856486982,"frozenset({'Electronics', 'Books'})"
+0.5112462495720989,"frozenset({'Home', 'Books'})"
+0.5121926662773605,"frozenset({'Electronics', 'Clothing'})"
+0.5125953967902378,"frozenset({'Clothing', 'Home'})"
+0.5136424961237188,"frozenset({'Electronics', 'Home'})"
+0.36261855379472824,"frozenset({'Electronics', 'Clothing', 'Books'})"
+0.36408852016673043,"frozenset({'Clothing', 'Home', 'Books'})"
+0.36296087473067395,"frozenset({'Electronics', 'Home', 'Books'})"
+0.36531684823100624,"frozenset({'Electronics', 'Clothing', 'Home'})"
+0.2580697126517791,"frozenset({'Electronics', 'Clothing', 'Home', 'Books'})"
